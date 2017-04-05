@@ -1,0 +1,17 @@
+Github bir nezaret sistemidir ve istifadecilerine kodlarla rahat islemek ve ya kodlar uzerinde rahat sekilde deyisiklik
+etmek imkani verir.Meselen yazidigimiz kodu githuba yukleyirik istenilen zaman istediyimiz yerden yarimciq qoydugumuz 
+isimizin davami yaza biler diger lazimi insanlarla paylasa bilerik.Bunun ucun githubda ozumuze profil acmaq lazimdir.
+Gitub nerdeyse butun fayil tiplerini destekleyir.
+githuba fayil yuklemek ucun asagidaki funksiyalardan istifade edirik.
+
+git init deyerek yazlniz 1defe tanitmis oluruq.
+
+Git add ( fayil name ) deyerek istediyimiz fayillari ealve ede bilerik.
+
+Git add . ( butun fayillari yuklemis oluruq )
+
+git commit -m "first commit" deyerek istenilen commit yaziriq.
+
+git remote add origin (URL copy-paste)
+
+git push origin master yuklemis oluruq daxil etdiyimizleri githuba yoneldirik..
